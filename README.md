@@ -28,7 +28,7 @@ An Multi purpose Bot Which Can :-
 
 ## Deploy To Render 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/dakshkohli23/Sharingan-Rename-Bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tandavbot/Sharingan-Rename-Bot)
 
 ### 🚀 Heroku Deploy
 
